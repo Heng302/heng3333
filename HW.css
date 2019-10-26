@@ -1,0 +1,114 @@
+#border-header {
+    border: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin: 10px; }
+
+
+
+h1 {
+    color: teal;
+    text-align : center;
+    font-size: 60px;
+    font-family: 'Great Vibes', cursive;
+    margin: 10px;
+    
+}
+
+h3 {
+    color: teal;
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
+    font-family:'Great Vibes', cursive;; 
+    margin-bottom: 60px;
+}
+
+h5 {
+    color: white;
+    font-family: 'Poiret One', cursive;
+    font-size : 30px; 
+    text-align : center;
+    margin: 10px;
+    font-weight: 500;
+
+}
+
+p {
+  font-family: Arial;
+}
+
+.box {
+    background-color: rgb(52, 53, 52);
+    width: 300px;
+    height: 590px;
+    border: 10px solid rgb(22, 24, 22);
+    padding: 47px;
+    margin: 15px;
+    color: white; 
+    display: inline-block;
+    margin-bottom: 50px;
+    font-family: 'Poiret One', cursive;
+  }
+
+
+body {
+  background-image:url("./Images/gjg.jpg");
+  margin: 0;
+  font-family: 'Poiret One', cursive;
+  
+}
+
+.bar {
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+.bar a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.bar a:hover {
+  background-color: teal;
+  color: white;
+}
+
+.bar a.different {
+  background-color: teal;
+  color: white;
+}
+
+#split {
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: -moz-inline-box; 
+  margin: 15px;
+}
+
+#pic
+{
+  text-align: center;
+}
+
+
+img {
+  max-width: 100%;
+}
+
+
+
+
+
+
+
+
+
+  

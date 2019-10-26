@@ -1,0 +1,225 @@
+span
+{
+	display: inline-block; 
+	margin: 15px; 
+	box-shadow: 1px 2px 2px rgb(255, 254, 254); 
+}
+
+body {
+  background-color: black;
+	padding: 0px;
+	max-width: 1400px;
+	margin: 0;
+}
+
+
+.red {
+  color:  red;
+  font-family: Verdana;
+  font-weight: 900;
+  font-family: 'Fascinate Inline', cursive;
+}
+
+.orange {
+    color: orangered;
+    font-family: Verdana;
+      font-weight: 900;
+      font-family: 'Fascinate Inline', cursive;
+  }
+
+.yellow{
+    color:yellow;
+    font-family: Verdana;
+      font-weight: 900;
+      font-family: 'Fascinate Inline', cursive;
+  }
+
+.green {
+    color: green;
+    font-family: Verdana;
+      font-weight: 900;
+      font-family: 'Fascinate Inline', cursive;
+  }
+
+.light-blue {
+    color: lightskyblue;
+    font-family: Verdana;
+      font-weight: 900;
+      font-family: 'Fascinate Inline', cursive;
+  }
+  
+.blue {
+    color:  blue;
+    font-family: Verdana;
+      font-weight: 900;
+      font-family: 'Fascinate Inline', cursive;
+  }
+
+.purple {
+    color:  purple;
+    font-family: Verdana;
+      font-weight: 900;
+      font-family: 'Fascinate Inline', cursive;
+  }
+
+#welcome {
+    text-align: center;
+    text-shadow: 0rem;
+    font-family: 'Fascinate Inline', cursive;
+}
+
+.white {
+    color: white;
+    font-family: Verdana;
+      font-weight: 900;
+  }
+
+.teal {
+    color: teal;
+    font-family: Verdana;
+      font-weight: 900;
+  }
+
+.gray {
+    background-color:gray;
+    font-family: Verdana;
+      font-weight: 900;
+  }
+
+.lightsalmon {
+    color: lightsalmon;
+    font-family: Verdana;
+      font-weight: 900;
+  }
+
+.F {
+    color: #F5CFFF;
+    font-family: Verdana;
+      font-weight: 900;
+  }
+
+.G {
+    color:#D0C2FF;
+    font-family: Verdana;
+      font-weight: 900;
+  }  
+
+.K {
+    color:rgb(224, 61, 127);
+    font-family: Verdana;
+      font-weight: 900;
+  } 
+
+.L {
+    color:rgb(224, 61, 216);
+    font-family: Verdana;
+      font-weight: 900;
+  } 
+  
+.O {
+    background-color:rgb(161, 224, 61);
+      font-weight: 900;
+      font-family: 'Monoton', cursive;
+  }  
+
+.r {
+    background-color:brown;
+    color: white;
+    font-family: Verdana;
+    font-weight: 900;
+    
+  }  
+
+.M {
+    background-color: plum;
+    color: white;
+    font-family: Verdana;
+    font-weight: 900;
+    
+  }  
+
+.A {
+    background-color:rgb(168, 11, 129);
+    color: white;
+    font-family: Verdana;
+    font-weight: 900;
+    
+  }  
+
+.Q {
+    background-color:rgb(19, 218, 19);
+    color: white;
+    font-weight: 900;
+    font-family: 'Monoton', cursive;
+    
+  }  
+
+.B {
+    background-color:rgb(201, 11, 90);
+    color: white;
+    font-family: Verdana;
+    font-weight: 900;
+    
+  }  
+
+
+
+  .bar {
+    overflow: hidden;
+    background-color: #333;
+  
+  }
+  
+  .bar a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  
+  .bar a:hover {
+    background-color: teal;
+    color: white;
+  }
+  
+  .bar a.different {
+    background-color: teal;
+    color: white;
+  }
+
+
+
+
+
+.medium {
+	font-size: 20px;
+	padding: 8px;
+}
+
+.big {
+	font-size: 30px;
+	padding: 10px;
+}
+
+.reallybig {
+	font-size: 40px;
+	padding: 15px;
+}
+
+.rotateleft {
+	transform: rotate(-5deg);
+}
+
+.rotateright {
+	transform: rotate(5deg);
+}
+
+.skewleft {
+	transform: skewX(10deg);
+}
+
+.skewright {
+	transform: skewX(-10deg);
+}
